@@ -48,8 +48,8 @@ padding: 100px 20px;}
             border-radius: 4px;
           color: Olive;
         font-size: 18px;
-        font-weight: bold
-      line-height: 27px;
+        font-weight: bold;
+      line-height 27px;
     padding: 15px 30px;
   }
 
@@ -67,16 +67,17 @@ line-height:30px;}
   padding: 15px 30px;
 }
 
-.protea-description{
+.project-description{
   padding: 100px 60px;
 }
 
 @media(max-width:900px){
-  .protea-description{
+  .project-description{
     padding:0px;
     text-align: center
   }
-  h1{font-size:44px;}
+  h1{font-size:44px; 
+  line-height:1.5;}
   h2{font-size:44px;}
   .hero{padding:80px 20px;}
 }
